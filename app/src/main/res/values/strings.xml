@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TTS</string>
+    <string name="txtAppear">Sinu räägitud tekst tuleb siia...</string>
+    <string name="txtTap">Vajuta mikri peale!</string>
+    <string name="txtPhone">Sisetage tekst, mida sa tahaksid, et telefon ütleks!</string>
+    <string name="speak">Speak</string>
+    <string name="stop">Stop</string>
+    <string name="clear">Clear</string>
+    <string name="info"><![CDATA[This app uses text-to-speech & speech-to-text features]]></string>
+</resources>
